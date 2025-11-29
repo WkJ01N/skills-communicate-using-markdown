@@ -8,6 +8,29 @@
 This is an image of Yaktocat:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+This is an image of Toripoka:
+![Image of Toripoka](https://img.moegirl.org.cn/common/7/7f/Ending-%E7%94%B5%E7%8E%A9%E5%B0%91%E5%A5%B3.png)
+
+This is a code block with javascript included:
+``` javascript
+var myVar = "Hello, world!";
+```
+
+This is another code block with C included:
+``` C
+#include<stdio.h>
+
+int main()
+{
+    int a = 10;
+    int b = 5;
+
+    printf("Your score is %d and you are on level %d.", a, b);
+    
+    return 0;
+}
+```
+
 **********Change log**********
 
 2025/11/25
@@ -15,3 +38,7 @@ New Header
 
 2025/11/29
 Added an image
+
+2025/11/29
+Added two code blocks
+Added a new image
