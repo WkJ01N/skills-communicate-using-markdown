@@ -5,9 +5,8 @@
 ##### h5
 ###### h6
 
-This is an image of Toripoka:
-
-![Image of Toripoka](https://img.moegirl.org.cn/common/7/7f/Ending-%E7%94%B5%E7%8E%A9%E5%B0%91%E5%A5%B3.png)
+This is an image of Tlipoca:  
+![Image of Tlipoca](https://images.steamusercontent.com/ugc/2303090939578166613/9E8B099C38116CCFD8D371A081B3C4F59E515B99/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 This is a code block with javascript included:
 ``` javascript
@@ -36,23 +35,17 @@ int main()
 
 **********Change log**********
 
-2025/11/25
-
+2025/11/25  
 New Header
 
-2025/11/29
-
+2025/11/29  
 Added an image
 
-2025/11/29
-
-Added two code blocks
-
+2025/11/29  
+Added two code blocks  
 Added a new image
 
-2025/11/29
-
-Added a task list sample
-
+2025/11/29  
+Added a task list sample  
 Yaktocat is too big so I deleted it
 
